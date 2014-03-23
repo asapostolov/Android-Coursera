@@ -1,7 +1,7 @@
-03-23 16:03:19.865: I/Lab-ContentProvider(1158): Entered onCreateLoader()
-03-23 16:03:29.543: I/Lab-ContentProvider(1158): Entered footerView.OnClickListener.onClick()
-03-23 16:03:29.674: I/Lab-ContentProvider(1158): Starting Place Download
-03-23 16:03:30.405: I/Lab-ContentProvider(1158): Entered addNewPlace()
-03-23 16:03:34.916: I/Lab-ContentProvider(1158): Entered footerView.OnClickListener.onClick()
-03-23 16:03:35.056: I/Lab-ContentProvider(1158): Starting Place Download
-03-23 16:03:35.469: I/Lab-ContentProvider(1158): Entered addNewPlace()
+03-23 17:00:09.760: I/Lab-ContentProvider(1128): Entered onCreateLoader()
+03-23 17:00:20.303: I/Lab-ContentProvider(1128): Entered footerView.OnClickListener.onClick()
+03-23 17:00:20.447: I/Lab-ContentProvider(1128): Starting Place Download
+03-23 17:00:21.095: I/Lab-ContentProvider(1128): Entered addNewPlace()
+03-23 17:00:25.625: I/Lab-ContentProvider(1128): Entered footerView.OnClickListener.onClick()
+03-23 17:00:25.769: I/Lab-ContentProvider(1128): You already have this location badge
+03-23 17:00:31.798: I/Lab-ContentProvider(1128): Place: The Greenhouse Country: United States
